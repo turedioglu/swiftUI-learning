@@ -11,6 +11,17 @@
 		CD70C6B72847A22400AA804F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6B62847A22400AA804F /* ContentView.swift */; };
 		CD70C6B92847A22800AA804F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD70C6B82847A22800AA804F /* Assets.xcassets */; };
 		CD70C6BC2847A22800AA804F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD70C6BB2847A22800AA804F /* Preview Assets.xcassets */; };
+		CD70C6C3284FDAD100AA804F /* NewGorselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6C2284FDAD100AA804F /* NewGorselView.swift */; };
+		CD70C6C5284FDD0200AA804F /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6C4284FDD0200AA804F /* Buttons.swift */; };
+		CD70C6C7284FDD1300AA804F /* ButtonsSecondPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6C6284FDD1300AA804F /* ButtonsSecondPage.swift */; };
+		CD70C6C9285BAD7500AA804F /* ListeGorunumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6C8285BAD7500AA804F /* ListeGorunumView.swift */; };
+		CD70C6CB285BAFCF00AA804F /* Kullanici.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6CA285BAFCF00AA804F /* Kullanici.swift */; };
+		CD70C6CD285BCD5E00AA804F /* BolumluListeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6CC285BCD5E00AA804F /* BolumluListeView.swift */; };
+		CD70C6CF285BDCB900AA804F /* StateDurumuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6CE285BDCB900AA804F /* StateDurumuView.swift */; };
+		CD70C6D1285E02A900AA804F /* SuperKahramanModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6D0285E02A900AA804F /* SuperKahramanModel.swift */; };
+		CD70C6D3285E074E00AA804F /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6D2285E074E00AA804F /* MapView.swift */; };
+		CD70C6D5285E192400AA804F /* SuperKahramanDetayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6D4285E192400AA804F /* SuperKahramanDetayView.swift */; };
+		CD70C6D7285E1A7900AA804F /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD70C6D6285E1A7900AA804F /* ImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		CD70C6B62847A22400AA804F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CD70C6B82847A22800AA804F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD70C6BB2847A22800AA804F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD70C6C2284FDAD100AA804F /* NewGorselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGorselView.swift; sourceTree = "<group>"; };
+		CD70C6C4284FDD0200AA804F /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		CD70C6C6284FDD1300AA804F /* ButtonsSecondPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsSecondPage.swift; sourceTree = "<group>"; };
+		CD70C6C8285BAD7500AA804F /* ListeGorunumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeGorunumView.swift; sourceTree = "<group>"; };
+		CD70C6CA285BAFCF00AA804F /* Kullanici.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kullanici.swift; sourceTree = "<group>"; };
+		CD70C6CC285BCD5E00AA804F /* BolumluListeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BolumluListeView.swift; sourceTree = "<group>"; };
+		CD70C6CE285BDCB900AA804F /* StateDurumuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDurumuView.swift; sourceTree = "<group>"; };
+		CD70C6D0285E02A900AA804F /* SuperKahramanModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperKahramanModel.swift; sourceTree = "<group>"; };
+		CD70C6D2285E074E00AA804F /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		CD70C6D4285E192400AA804F /* SuperKahramanDetayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperKahramanDetayView.swift; sourceTree = "<group>"; };
+		CD70C6D6285E1A7900AA804F /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +75,16 @@
 			children = (
 				CD70C6B42847A22400AA804F /* SwiftUITestApp.swift */,
 				CD70C6B62847A22400AA804F /* ContentView.swift */,
+				CD70C6C2284FDAD100AA804F /* NewGorselView.swift */,
+				CD70C6C4284FDD0200AA804F /* Buttons.swift */,
+				CD70C6C6284FDD1300AA804F /* ButtonsSecondPage.swift */,
+				CD70C6C8285BAD7500AA804F /* ListeGorunumView.swift */,
+				CD70C6CC285BCD5E00AA804F /* BolumluListeView.swift */,
+				CD70C6CE285BDCB900AA804F /* StateDurumuView.swift */,
+				CD70C6D0285E02A900AA804F /* SuperKahramanModel.swift */,
+				CD70C6D2285E074E00AA804F /* MapView.swift */,
+				CD70C6D4285E192400AA804F /* SuperKahramanDetayView.swift */,
+				CD70C6D6285E1A7900AA804F /* ImageView.swift */,
 				CD70C6B82847A22800AA804F /* Assets.xcassets */,
 				CD70C6BA2847A22800AA804F /* Preview Content */,
 			);
@@ -62,6 +94,7 @@
 		CD70C6BA2847A22800AA804F /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				CD70C6CA285BAFCF00AA804F /* Kullanici.swift */,
 				CD70C6BB2847A22800AA804F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -137,8 +170,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD70C6D1285E02A900AA804F /* SuperKahramanModel.swift in Sources */,
 				CD70C6B72847A22400AA804F /* ContentView.swift in Sources */,
+				CD70C6C7284FDD1300AA804F /* ButtonsSecondPage.swift in Sources */,
+				CD70C6D3285E074E00AA804F /* MapView.swift in Sources */,
+				CD70C6D7285E1A7900AA804F /* ImageView.swift in Sources */,
+				CD70C6C9285BAD7500AA804F /* ListeGorunumView.swift in Sources */,
+				CD70C6CF285BDCB900AA804F /* StateDurumuView.swift in Sources */,
+				CD70C6CB285BAFCF00AA804F /* Kullanici.swift in Sources */,
+				CD70C6C3284FDAD100AA804F /* NewGorselView.swift in Sources */,
+				CD70C6CD285BCD5E00AA804F /* BolumluListeView.swift in Sources */,
 				CD70C6B52847A22400AA804F /* SwiftUITestApp.swift in Sources */,
+				CD70C6C5284FDD0200AA804F /* Buttons.swift in Sources */,
+				CD70C6D5285E192400AA804F /* SuperKahramanDetayView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
